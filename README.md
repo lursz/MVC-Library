@@ -49,7 +49,8 @@ The lending feature allows the administrator to lend books to registered users. 
 ### Please note that only registered users with appropriate privileges can access these features.
 
 ## Screenshots
-![Screenshot 2023-07-04 001951](https://github.com/lursz/MVC-Library/assets/93160829/61db45fb-cc24-41db-8572-d0bce7883305)
-![Screenshot 2023-07-04 002018](https://github.com/lursz/MVC-Library/assets/93160829/7b6877bb-bcac-49aa-a6d2-0cd3b8a08f5b)
-![Screenshot 2023-07-04 002135](https://github.com/lursz/MVC-Library/assets/93160829/e9ff1050-c671-4ea1-917a-9faff4411886)
+![1](https://github.com/lursz/MVC-Library/assets/93160829/bf80d842-4d0f-47b8-a1a6-29edd03d0292)
+![2](https://github.com/lursz/MVC-Library/assets/93160829/91d471fb-77f6-451e-b02e-1ad6189a1572)
+![3](https://github.com/lursz/MVC-Library/assets/93160829/6811f676-aa32-4c9d-80f8-818fe3c75b22)
+
 
