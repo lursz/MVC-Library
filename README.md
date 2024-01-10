@@ -10,9 +10,6 @@
     3. [Manage books](#manage-books)
     4. [Lend books](#lend-books)
 
-
-
-
 <br/><br/>
 
 ## How to use
